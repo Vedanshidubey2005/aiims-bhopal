@@ -12,7 +12,7 @@ import { MENU, TICKER } from '../data';
   <header class="site-header">
     <div class="wrap brand-row">
       <a routerLink="/" class="brand">
-        <img src="assets/icons/aiims-logo.svg" alt="AIIMS Bhopal logo" width="56" height="56">
+        <img src="assets/images/aiims_logo.png" alt="AIIMS Bhopal logo" width="56" height="56">
         <span><strong>All India Institute of Medical Sciences, Bhopal</strong><small>An Institute of National Importance</small></span>
       </a>
       <div class="actions">

@@ -36,7 +36,7 @@ export const QUICK = [
   { label: 'Recruitment', icon: '💼', link: '/resources' }, { label: 'Contact Us', icon: '📞', link: '/administration' }
 ];
 export const OFFICIALS = Array.from({ length: 5 }, (_, i) => ({
-  name: 'Official Name', designation: 'Designation', image: `assets/images/official-${i + 1}.jpg`, description: 'Official profile information'
+  name: 'Official Name', designation: 'Designation', image: `/assets/images/official-${i + 1}.png`, description: 'Official profile information'
 }));
 export const NOTICES = [
   { date: '2026-10-01', title: 'Recruitment Notice (sample)' }, { date: '2026-09-28', title: 'Academic Schedule (sample)' },
